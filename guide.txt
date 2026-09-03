@@ -1,0 +1,5 @@
+py -m django startproject newproject
+
+python .\manage.py startapp api
+
+add api app inside setting install place
